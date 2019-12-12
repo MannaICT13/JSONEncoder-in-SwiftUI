@@ -14,6 +14,7 @@
 		2A3EFF6D23A2927900E9EF0E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A3EFF6C23A2927900E9EF0E /* Preview Assets.xcassets */; };
 		2A3EFF7023A2927900E9EF0E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A3EFF6E23A2927900E9EF0E /* LaunchScreen.storyboard */; };
 		2A3EFF7823A292D100E9EF0E /* JsonStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3EFF7723A292D100E9EF0E /* JsonStruct.swift */; };
+		2A3EFF7A23A293F900E9EF0E /* GetDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3EFF7923A293F900E9EF0E /* GetDataClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2A3EFF6F23A2927900E9EF0E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2A3EFF7123A2927900E9EF0E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2A3EFF7723A292D100E9EF0E /* JsonStruct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JsonStruct.swift; sourceTree = "<group>"; };
+		2A3EFF7923A293F900E9EF0E /* GetDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetDataClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				2A3EFF7123A2927900E9EF0E /* Info.plist */,
 				2A3EFF6B23A2927900E9EF0E /* Preview Content */,
 				2A3EFF7723A292D100E9EF0E /* JsonStruct.swift */,
+				2A3EFF7923A293F900E9EF0E /* GetDataClass.swift */,
 			);
 			path = "JSONEncoder in SwiftUI";
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2A3EFF6423A2927700E9EF0E /* AppDelegate.swift in Sources */,
+				2A3EFF7A23A293F900E9EF0E /* GetDataClass.swift in Sources */,
 				2A3EFF6623A2927700E9EF0E /* SceneDelegate.swift in Sources */,
 				2A3EFF7823A292D100E9EF0E /* JsonStruct.swift in Sources */,
 				2A3EFF6823A2927700E9EF0E /* ContentView.swift in Sources */,

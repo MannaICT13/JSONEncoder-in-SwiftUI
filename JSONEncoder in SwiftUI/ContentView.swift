@@ -11,8 +11,11 @@ import SwiftUI
 
 
 struct ContentView: View {
+    
+    @ObservedObject var allData = GetDataClass()
+    
     var body: some View {
-        Text("Hello World")
+       Text("Successfully Completed")
     }
 }
 

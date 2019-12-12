@@ -63,12 +63,12 @@
 				2A3EFF6323A2927700E9EF0E /* AppDelegate.swift */,
 				2A3EFF6523A2927700E9EF0E /* SceneDelegate.swift */,
 				2A3EFF6723A2927700E9EF0E /* ContentView.swift */,
+				2A3EFF7723A292D100E9EF0E /* JsonStruct.swift */,
+				2A3EFF7923A293F900E9EF0E /* GetDataClass.swift */,
 				2A3EFF6923A2927900E9EF0E /* Assets.xcassets */,
 				2A3EFF6E23A2927900E9EF0E /* LaunchScreen.storyboard */,
 				2A3EFF7123A2927900E9EF0E /* Info.plist */,
 				2A3EFF6B23A2927900E9EF0E /* Preview Content */,
-				2A3EFF7723A292D100E9EF0E /* JsonStruct.swift */,
-				2A3EFF7923A293F900E9EF0E /* GetDataClass.swift */,
 			);
 			path = "JSONEncoder in SwiftUI";
 			sourceTree = "<group>";
